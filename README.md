@@ -16,61 +16,40 @@
 
 ## 🧰 Tech Stack & Tools
 
-### 💻 Languages & Libraries  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-
-### 🌐 Frontend  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css)
-
-### 🛠 Backend & Databases  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-
-### ⚙️ Dev Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
-
+![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,mongodb,express,tailwind,git,github,linux,tensorflow,opencv)
 ---
 
 ## 🚀 Projects
 
-### 🧠 [Coditix](https://github.com/Aayushhh07/coditix)
-Real-time collaborative code editor using MERN, Socket.IO, and CodeMirror. Supports live sync, room IDs, and notifications.
+- 🧠 **Coditix – Real-time Code Editor**  
+  A collaborative code editor built using MERN, Socket.IO, and CodeMirror, supporting live synchronization, room-based sessions, and user notifications.
 
-### 🥛 [Divya Dairy – Milk Delivery System](https://github.com/Aayushhh07/milk-delivery)
-Full-stack subscription-based milk delivery platform with wallet-triggered logic, built using React, Node.js, and MongoDB.
+- 🥛 **Divya Dairy – Smart Milk Delivery System**  
+  Wallet-driven subscription system with admin dashboard, user control, and balance-triggered delivery logic – built with MERN stack and Firebase.
 
-### 💼 [HeyCareer](https://github.com/Aayushhh07/heycareer)
-Career guidance and resume portfolio tool with user auth and intelligent profile structuring. Designed for students and freshers.
+- 💼 **HeyCareer – Career Support Platform**  
+  A personalized portfolio and resume guidance tool that helps students structure their profiles intelligently and connect to opportunities.
 
-### 🌐 [IET Lucknow Placement Website](https://github.com/Aayushhh07/iet-placement)
-Official placement portal of IET Lucknow, streamlining communication between T&P Cell, students, and recruiters.
+- 🌐 **IET Lucknow Official Placement Website**  
+  Developed and deployed the official Training & Placement portal to streamline placement-related communication for 1500+ students and recruiters.
+
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aayushhh07&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aayushhh07&theme=radical" height="150"/>
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayushhh07&show_icons=true&theme=radical&hide_title=true&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushhh07&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-Aayush%20Vishwakarma-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushvishwakarma)  
+[![LinkedIn](https://img.shields.io/badge/-Aayush%20Vishwakarma-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-vishwakarma-68a8a92a1/)  
 [![Email](https://img.shields.io/badge/-aayushvishwakarma93@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aayushvishwakarma93@gmail.com)
 
 ---
